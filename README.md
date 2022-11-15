@@ -13,3 +13,8 @@ In this challenge you'll have to use figma to create a personal UI Kit
 
 Create a figma account from [here](www.figma.com)
 Then you can either use the browser version or install the app.
+
+
+## Example of what to create
+
+[Example Project](https://www.figma.com/file/cwnx4AZkgzVh0vQ2fKDxpB/UI-Kit-DEMO?node-id=0%3A1&t=2aMNQ52xma4FTr7L-1)
